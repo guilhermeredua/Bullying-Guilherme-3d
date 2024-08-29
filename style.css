@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24+Charted&display=swap');
+
+
+body{
+  font-family: "Sedan SC";
+  font-weight: 200px;
+  margin: 0;
+  padding: 0;
+  background: #d<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Danfo&display=swap" rel="stylesheet">
+ddddd;
+}
+
+.plus-jakarta-sans-<uniquifier> {
+  font-family: "Sedan SC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+header{
+  background-color: royalblue;
+  color: white;
+  padding: 1em 0;
+  text-align: center;
+}
+
+nav{
+  background-color: crimson;
+  overflow: hidden;
+}
+
+nav a{
+  color: #f2f2f2;
+  display: block;
+  padding: 14px 16px;
+  float: left;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  transition: 1s all;
+}
+
+nav a:hover{
+  background-color: white;
+  color: black;
+}
+
+.container{
+  padding: 20px;
+}
+
+.sessao{
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+footer{
+  background-color: royalblue;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  width: 100%;
+}
